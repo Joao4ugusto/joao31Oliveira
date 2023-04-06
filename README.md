@@ -1,4 +1,4 @@
-      ⚡Bem-vindo ao meu perfil !!
+Bem-vindo ao meu perfil !!
 
 - Sou Desenvolvedor Full-Stack com foco em Java - Spring Boot (Back-End), ReactJS + NextJs (Web Front-End).
 
