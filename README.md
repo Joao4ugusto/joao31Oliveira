@@ -1,16 +1,31 @@
-### Hi there 👋
+      ⚡Bem-vindo ao meu perfil !!
 
-<!--
-**joao31Oliveira/joao31Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou Desenvolvedor Full-Stack com foco em Java - Spring Boot (Back-End), ReactJS + NextJs (Web Front-End).
 
-Here are some ideas to get you started:
+<div>
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dracula&count_private=true">
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+</div>
+
+<ul>
+      <li>Front-end com ReactJS + NextJs</li>
+      <li>Back-end com Java + Spring</li>
+      <li>Modelagem de Banco de dados</li>
+       <li>SQL E NoSQL</li>
+      <li>Estudando Kotlin para Mobile</li>
+  </ul>
+  
+  ##
+<div>
+    <img height='35em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='35em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='35em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='35em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+    <img height='35em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
+    <img height='35em' src='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
+    <img height='35em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  </div>
+ 
