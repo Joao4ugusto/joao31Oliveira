@@ -15,7 +15,6 @@ Bem-vindo ao meu perfil !!
       <li>Back-end com Java + Spring</li>
       <li>Modelagem de Banco de dados</li>
        <li>SQL E NoSQL</li>
-      <li>Estudando Kotlin para Mobile</li>
   </ul>
   
   ##
