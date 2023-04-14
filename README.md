@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil !!
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dracula">
 </div>
 
 <div>
