@@ -3,8 +3,8 @@ Bem-vindo ao meu perfil !!
 - Sou Desenvolvedor Full-Stack com foco em Java - Spring Boot (Back-End), ReactJS + NextJs (Web Front-End).
 
 <div>
-    <img height="165em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dracula&count_private=true">
-    <img height="165em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dracula">
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dracula&count_private=true">
+    <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dracula">
 </div>
 
 <div>
