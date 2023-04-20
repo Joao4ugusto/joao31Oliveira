@@ -1,6 +1,6 @@
 Bem-vindo ao meu perfil !!
 
-- Sou Desenvolvedor Full-Stack com foco em Java - Spring Boot (Back-End), ReactJS + NextJs (Web Front-End).
+- Sou Desenvolvedor Full-Stack
 
 <div>
     <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dark&count_private=true">
