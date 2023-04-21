@@ -15,7 +15,6 @@ Bem-vindo ao meu perfil !!
       <li>Back-end com Java + Spring</li>
       <li>Conhecimento em C/C++</li>
       <li>Modelagem de Banco de dados</li>
-       <li>SQL E NoSQL</li>
   </ul>
   
   ##
