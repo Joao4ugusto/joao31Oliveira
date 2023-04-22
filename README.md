@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil !!
 
 <ul>
       <li>Front-end com ReactJS + NextJs</li>
-      <li>Back-end com Java + Spring</li>
+      <li>Estudando Back-end com Java + Spring</li>
       <li>Conhecimento em C e C++</li>
       <li>Modelagem de Banco de dados</li>
   </ul>
