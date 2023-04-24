@@ -1,7 +1,3 @@
-Bem-vindo ao meu perfil !!
-
-- Desenvolvedor Full-Stack
-
 <div>
     <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joao31Oliveira&show_icons=true&theme=dark&count_private=true">
     <img height="170em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joao31Oliveira&layout=compact&theme=dark">
